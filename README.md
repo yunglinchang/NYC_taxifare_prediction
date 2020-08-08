@@ -1,6 +1,6 @@
 # [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction)
 ![alt text](https://miro.medium.com/max/2560/1*0Ov3bD5xNxszuJTBYJjX4w.jpeg)
-This project aims to provide solution for predicting the fare amount (inclusive of tolls) of a taxi ride in New York City given the pickup and dropoff locations. **The techniques utilized in this project include feature engineering with geological data, hyper-parameter tuning, and building LightGBM and CatBoost models based on 55M+ data.**
+This project aims to provide a solution for predicting the fare amount (inclusive of tolls) of a taxi ride in New York City given the pickup and dropoff locations. **The techniques utilized in this project include feature engineering with geological data, hyper-parameter tuning, and building LightGBM and CatBoost models based on 55M+ data.**
 
 ## Build status
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) [![codecov](https://codecov.io/gh/yunglinchang/NYC_taxifare_prediction/branch/master/graph/badge.svg)](https://codecov.io/gh/yunglinchang/NYC_taxifare_prediction)
